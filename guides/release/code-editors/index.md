@@ -20,8 +20,8 @@ Syntax formatting for glimmer templates.
 
 ### Language Server
 
-[Stable Ember Language Server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) -
-Stable Ember Language Server is a stable, full-featured language server. Its name comes from its history as a fork of Ember Language Server and the efforts to keep up with changes in Ember.
+[Ember Language Server](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vscode-ember) -
+Adds enhanced editor features like auto completion and go to definition.
 
 ### Workflow
 
@@ -127,3 +127,9 @@ Ember CLI snippets for Sublime Text 3.
 
 [ember-component-template-split-view](https://github.com/mmitchellgarcia/ember-component-template-split-view) -
 Super simple Sublime Text plugin that will let you open corresponding template or route files with Ember.js components.
+
+## CodeLobster IDE
+
+CodeLobster IDE is a smart free cross-platform editor.
+
+[CodeLobster IDE plug-in for Ember](http://www.codelobster.com/emberjs.html) gives autocomplete and tooltips for Ember.js functions, context and dynamic help.

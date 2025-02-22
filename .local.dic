@@ -18,18 +18,21 @@ autotracking
 aXe
 backticks
 beforeEach
+BelongsTo
 blockquote
 blogPost
 bookmarklet
 Browserlist
 callouts
 camelize
+centric
 Chai
 chainable
 cheatsheet
 checkboxes
 Checkboxes
 coc-ember
+CodeLobster
 CoffeeScript
 ColorSafe
 componentized
@@ -99,6 +102,7 @@ hackable
 HammerJS
 hardcode
 hashchange
+HasMany
 Hm
 Hoc
 htmlbars
@@ -173,6 +177,7 @@ repos
 rerender
 rerendering
 rerenders
+RequestManager
 routable
 RunDOC
 runnable
@@ -213,6 +218,7 @@ TextMate
 todo
 todos
 tooltip
+tooltips
 trackable
 Trackable
 Treeshaking
@@ -241,6 +247,7 @@ VoiceOver
 voilà
 Voilà
 vscode-glimmer-syntax
+WarpDrive
 websocket
 working-with-html-css-and-javascript
 yay
